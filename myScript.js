@@ -1,5 +1,5 @@
 console.log("STARTUJEMY");
-console.log(Date().now());
+console.log(Date.now());
 
 //d3.csv("cities.csv",function(data) {console.log(data)});
 
